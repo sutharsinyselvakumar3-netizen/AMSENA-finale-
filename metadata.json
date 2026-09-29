@@ -1,0 +1,6 @@
+{
+  "name": "AI Companion",
+  "description": "Smart Onion Garden Robot control and monitoring app with real-time MQTT telemetry, camera stream, and safety supervision.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
